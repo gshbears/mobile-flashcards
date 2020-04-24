@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "j6-rqu",
+  "hostType": "tunnel",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": true
+}
